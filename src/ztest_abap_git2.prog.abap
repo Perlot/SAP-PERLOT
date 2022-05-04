@@ -1,11 +1,9 @@
 *&---------------------------------------------------------------------*
-*& Report ZTEST_ABAP_GIT
+*& Report ZTEST_ABAP_GIT2
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZTEST_ABAP_GIT.
+REPORT ZTEST_ABAP_GIT2.
 
 
-write: / 'because you can see all the diffrences'. "changes
-write: / 'after you commit something'.
-write: / 'so you could corecct errors'."new line
+write: 'you can also can make to changes in different files and declare it as one commit'.
