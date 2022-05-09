@@ -14,4 +14,5 @@ write: / 'test',
          'this line is addeted in branche 5',
          'this is added in new-branche-name',
          'edited in online repo',
-         'new new new'.
+         'new new new',
+         'newer newer newer'.
